@@ -18,7 +18,7 @@ Cursor、Codex、Claude 和 Claude Design 使用的是同一个 Reader Mac App P
 
 | Cursor | Codex | Claude | Claude Design |
 |---|---|---|---|
-| <img src="assets/screenshots/cursor-reader-mac-app.jpeg" alt="Cursor 运行 baoyu-design" width="240"> | <img src="assets/screenshots/codex-reader-mac-app.png" alt="Codex 运行 baoyu-design" width="240"> | <img src="assets/screenshots/claude-reader-mac-app.png" alt="Claude 运行 baoyu-design" width="240"> | <img src="assets/screenshots/claude-design-reader-mac-app.png" alt="Claude Design 使用同一 Reader Mac App Prompt 的效果" width="240"> |
+| <img src="assets/screenshots/cursor-reader-mac-app.webp" alt="Cursor 运行 baoyu-design" width="240"> | <img src="assets/screenshots/codex-reader-mac-app.webp" alt="Codex 运行 baoyu-design" width="240"> | <img src="assets/screenshots/claude-reader-mac-app.webp" alt="Claude 运行 baoyu-design" width="240"> | <img src="assets/screenshots/claude-design-reader-mac-app.webp" alt="Claude Design 使用同一 Reader Mac App Prompt 的效果" width="240"> |
 
 <details>
 <summary>展开查看共同使用的 Prompt</summary>

@@ -18,7 +18,7 @@ The same Reader Mac App prompt was used in Cursor, Codex, Claude, and Claude Des
 
 | Cursor | Codex | Claude | Claude Design |
 |---|---|---|---|
-| <img src="assets/screenshots/cursor-reader-mac-app.jpeg" alt="Cursor running baoyu-design" width="240"> | <img src="assets/screenshots/codex-reader-mac-app.png" alt="Codex running baoyu-design" width="240"> | <img src="assets/screenshots/claude-reader-mac-app.png" alt="Claude running baoyu-design" width="240"> | <img src="assets/screenshots/claude-design-reader-mac-app.png" alt="Claude Design running the same Reader Mac App prompt" width="240"> |
+| <img src="assets/screenshots/cursor-reader-mac-app.webp" alt="Cursor running baoyu-design" width="240"> | <img src="assets/screenshots/codex-reader-mac-app.webp" alt="Codex running baoyu-design" width="240"> | <img src="assets/screenshots/claude-reader-mac-app.webp" alt="Claude running baoyu-design" width="240"> | <img src="assets/screenshots/claude-design-reader-mac-app.webp" alt="Claude Design running the same Reader Mac App prompt" width="240"> |
 
 <details>
 <summary>Prompt used for all screenshots</summary>
