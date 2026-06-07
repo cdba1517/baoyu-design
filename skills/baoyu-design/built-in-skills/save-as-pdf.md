@@ -26,7 +26,7 @@ Export the current HTML design as a print-friendly HTML file optimized for PDF e
 
 If using unmodified deck-stage.js, your deck should already be print-ready, so you can just copy the file and add the auto-print script!
 
-3. **Test the file** by showing it with `show_html`, then make sure there are no JS errors. No need to screenshot unless asked.
+3. **Test the file** by previewing it per your selected harness reference, then make sure there are no JS errors. No need to screenshot unless asked.
 
 4. **Add the auto-print script** to the file after verifying it looks correct. This should call `window.print()`, but not before making sure the layout is ready (ie fonts and JS have loaded). Make sure your code waits until these conditions are met:
 - All fonts are loaded

@@ -8,8 +8,8 @@ Export an HTML slide deck to a `.pptx` with native PowerPoint objects (editable 
 
 ## What you do
 
-1. **Know the deck.** You probably wrote it. If not, `read_file` the HTML to find: the slide selector, how to navigate (function name? class toggle?), what fonts it uses, whether there's a scaling wrapper.
-2. **`show_to_user`** the deck so it's in the user's preview.
+1. **Know the deck.** You probably wrote it. If not, read the HTML to find: the slide selector, how to navigate (function name? class toggle?), what fonts it uses, whether there's a scaling wrapper.
+2. **Surface/preview the deck** per your selected harness reference so it's visible in the user's preview surface.
 3. **Call `gen_pptx`** with the inputs below.
 4. **Read the validation flags** in the result and decide if you need to retry.
 

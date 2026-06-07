@@ -8,7 +8,7 @@ Export an HTML slide deck to a `.pptx` as full-bleed PNG images. Pixel-perfect, 
 
 ## Steps
 
-1. `show_to_user` the deck.
+1. Surface/preview the deck per your selected harness reference.
 2. Call `gen_pptx`:
 
 ```jsonc

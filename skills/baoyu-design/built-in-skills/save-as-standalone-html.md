@@ -90,12 +90,12 @@ Give the output file a friendly human name.
 
 **Read the tool result first** — if any asset couldn't be resolved, super_inline_html lists it directly in its output ("N asset(s) could not be bundled: - asset not found: ./foo.png"). That's the authoritative miss list; fix those references and re-run before opening anything.
 
-Then open the bundled output with show_html TO CHECK IT WORKS — this is a private verification step for YOU, not the delivery mechanism. Check get_webview_logs for runtime errors (JS exceptions, failed decodes). If there are issues, fix the source file and re-run.
+Then preview the bundled output per your selected harness reference TO CHECK IT WORKS — this is a private verification step for YOU, not the delivery mechanism. Check the page's console/runtime logs for errors (JS exceptions, failed decodes). If there are issues, fix the source file and re-run.
 
 ## Step 6: Present for download — MANDATORY
 
 You MUST deliver the final file using **present_fs_item_for_download** pointing directly at the inlined HTML output. This is the ONLY correct way to hand off a standalone export.
 
-- Do NOT use show_html / show_to_user as the delivery step — those are preview tools, not download tools. The user cannot save the file from them.
+- Do NOT use preview/show-file tools as the delivery step — those are preview tools, not download tools. The user cannot reliably save the standalone export from them.
 - Do NOT ask whether they want to download it — just call present_fs_item_for_download.
 - If you skip this step, the user has no way to get the file. This step is non-negotiable.
